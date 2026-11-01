@@ -3,7 +3,6 @@
 A web app that helps users **find more problems to practice on LeetCode**, built with **Next.js / React**, by [Gurkirat Singh](https://github.com/codingmastergurkirat).
 
 > **Repository:** [codingmastergurkirat/leetcodesuggestions](https://github.com/codingmastergurkirat/leetcodesuggestions)
-> **Status:** 🚧 Not yet deployed — currently runnable **locally only**.
 
 ---
 
