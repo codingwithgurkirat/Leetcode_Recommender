@@ -12,6 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+//Title will show in the tab of browser when someone opens this site
 export const metadata: Metadata = {
   title: "Leetcode Recommender",
   description: "It help users to find new problems based on previously solved problems",
